@@ -1,4 +1,4 @@
-# traffic-light-system
+# traffic-light-slipway-system
 Embedded Project for simulation a traffic light with train system
 
 # Proteus Simulation View
